@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Shahdin Salman</h1>
+![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/banner.jpg)
+<h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
