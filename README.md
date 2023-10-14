@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahdintweets" target="blank"><img src="https://img.shields.io/twitter/follow/shahdintweets?logo=twitter&style=for-the-badge" alt="shahdintweets" /></a> </p>
 
-- 🔭 I’m currently working on **Pretty Chicks Care**
+- 🔭 I’m currently working on **Advanced Javascript**
 
 - 🌱 I’m currently learning **Advance Javascript**
 
