@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Advanced Javascript**
 
-- 🌱 I’m currently learning **Advance Javascript**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,jQuery,GSAP**
 
