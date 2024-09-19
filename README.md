@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/shahdintweets" target="blank"><img src="https://img.shields.io/twitter/follow/shahdintweets?logo=twitter&style=for-the-badge" alt="shahdintweets" /></a> </p>
 
-- I’m focusing on mastering Python, the key language for AI, data science, and advanced development.**
+- 🧠 **Learning Python**: I’m focusing on mastering Python, the key language for AI, data science, and advanced development.**
 
-- I believe in learning by doing, so I’m applying my knowledge to real-world AI projects.**
+- 💻 **Building Projects**:I believe in learning by doing, so I’m applying my knowledge to real-world AI projects.**
 
-- Constantly learning, adapting, and expanding my skill set to stay at the forefront of AI and Python development.**
+- 📈 **Growing Daily**: Constantly learning, adapting, and expanding my skill set to stay at the forefront of AI and Python development.**
 
-- 📫 How to reach me **shahdinsalman@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
+- 📧 How to reach me **shahdinsalman@gmail.com**
 
 <h3 align="center" style="margin: 80px 0px 0px 0px;"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
