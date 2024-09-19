@@ -1,17 +1,27 @@
 ![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/github_banner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
+
+ <p align="left">
+     <a href="https://github.com/shahdinsalman23?tab=followers">
+         <img alt="github views" title="Github views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/shahdinsalman23?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/shahdinsalman23?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdinsalman23&label=Profile%20views&color=0e75b6&style=flat" alt="shahdinsalman23" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shahdintweets" target="blank"><img src="https://img.shields.io/twitter/follow/shahdintweets?logo=twitter&style=for-the-badge" alt="shahdintweets" /></a> </p>
 
-- 🧠 **Learning Python**: I’m focusing on mastering Python, the key language for AI, data science, and advanced development.**
+- 🧠 **Learning Python**: I’m focusing on mastering Python, the key language for AI, data science, and advanced development.
 
-- 💻 **Building Projects**:I believe in learning by doing, so I’m applying my knowledge to real-world AI projects.**
+- 💻 **Building Projects**:I believe in learning by doing, so I’m applying my knowledge to real-world AI projects.
 
-- 📈 **Growing Daily**: Constantly learning, adapting, and expanding my skill set to stay at the forefront of AI and Python development.**
+- 📈 **Growing Daily**: Constantly learning, adapting, and expanding my skill set to stay at the forefront of AI and Python development.
 
 - 📧 How to reach me **shahdinsalman@gmail.com**
 
