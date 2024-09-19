@@ -26,6 +26,46 @@
 <a href="https://www.youtube.com/c/smprogrammer23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smprogrammer23" height="30" width="40" /></a>
 </p>
 
+<h3 align="center"> 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
+  Connect with me on 🤝: 
+</h3>
+
+<p align="center">
+  <div align="center" class="icons-social" style="margin-center: 10px;">
+    <div>   
+      <a href="mailto:asharibali@proton.me" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0077B5" alt="Asharib Ali - Email">
+      </a>
+      <a href="https://t.me/AsharibAli" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=0077B5" alt="Asharib Ali -Telegram">
+      </a>
+      <a href="https://twitter.com/0xAsharib" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=0077B5" alt="Asharib Ali-Twitter">
+      </a>
+      <a href="https://linkedin.com/in/asharibali" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="Asharib Ali-Linkedin">
+      </a><br>
+      <a href="https://facebook.com/asharib.imtiaz" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0077B5" alt="Asharib Ali- Facebook">
+      </a>
+      <a href="https://www.Instagram.com/0xasharib/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0077B5" alt="Asharib Ali-Instagram">
+      </a>
+      <a href="https://youtube.com/@0xAsharib" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=0077B5" alt="Asharib Ali-Youtube">
+      </a>
+      <a href="https://www.fiverr.com/asharibarain" target="_blank">
+        <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0077B5" alt="Asharib Ali-fiverr">
+      </a>
+      <a href="https://asharibali.medium.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=0077B5" alt="Asharib Ali-Medium">
+      </a>
+      <br>
+    </div>
+</p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
