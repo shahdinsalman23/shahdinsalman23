@@ -1,7 +1,7 @@
 ![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/github_banner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img align="right" alt="Coding" style="margin: 0px 0px 20px 0px;" width="380" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" style="margin: 0px 0px 50px 0px;" width="380" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahdinsalman23&label=Profile%20views&color=0e75b6&style=flat" alt="shahdinsalman23" /> </p>
 
