@@ -34,32 +34,24 @@
 <p align="center">
   <div align="center" class="icons-social" style="margin-center: 10px;">
     <div>   
-      <a href="mailto:asharibali@proton.me" target="_blank">
-        <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=0077B5" alt="Asharib Ali - Email">
+      <a href="mailto:shahdinsalman@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=c9c7ad" alt="Shahdin Salman - Email">
       </a>
-      <a href="https://t.me/AsharibAli" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=0077B5" alt="Asharib Ali -Telegram">
+      <a href="https://www.linkedin.com/in/shahdinsalman/" target="_blank">
+        <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=c9c7ad" alt="Shahdin Salman-Linkedin">
       </a>
-      <a href="https://twitter.com/0xAsharib" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=0077B5" alt="Asharib Ali-Twitter">
+      <a href="https://twitter.com/ShahdinTweets" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=c9c7ad" alt="Shahdin Salman-Twitter">
       </a>
-      <a href="https://linkedin.com/in/asharibali" target="_blank">
-        <img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="Asharib Ali-Linkedin">
-      </a><br>
-      <a href="https://facebook.com/asharib.imtiaz" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=0077B5" alt="Asharib Ali- Facebook">
+      <br>
+      <a href="https://www.facebook.com/people/Shahdin-Salman/100071074861860/?paipv=0&eav=AfZ1DSvr0Kt-wujthRENmkcIgtDPlpY_fNvwO2kMvyP2FE9s13bQIrsyBB0ckGFU2WE&_rdr" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=c9c7ad" alt="Shahdin Salman- Facebook">
       </a>
-      <a href="https://www.Instagram.com/0xasharib/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=0077B5" alt="Asharib Ali-Instagram">
+      <a href="https://www.instagram.com/_shahdin23/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=c9c7ad" alt="Shahdin Salman-Instagram">
       </a>
-      <a href="https://youtube.com/@0xAsharib" target="_blank">
-        <img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=0077B5" alt="Asharib Ali-Youtube">
-      </a>
-      <a href="https://www.fiverr.com/asharibarain" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=0077B5" alt="Asharib Ali-fiverr">
-      </a>
-      <a href="https://asharibali.medium.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=0077B5" alt="Asharib Ali-Medium">
+      <a href="https://www.youtube.com/@smprogrammer23" target="_blank">
+        <img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=c9c7ad" alt="Shahdin Salman-Youtube">
       </a>
       <br>
     </div>
