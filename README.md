@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shahdintweets" target="blank"><img src="https://img.shields.io/twitter/follow/shahdintweets?logo=twitter&style=for-the-badge" alt="shahdintweets" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced Javascript**
+- I’m focusing on mastering Python, the key language for AI, data science, and advanced development.**
 
-- 🌱 I’m currently learning **React Js**
+- I believe in learning by doing, so I’m applying my knowledge to real-world AI projects.**
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,jQuery,GSAP**
+- Constantly learning, adapting, and expanding my skill set to stay at the forefront of AI and Python development.**
 
 - 📫 How to reach me **shahdinsalman@gmail.com**
 
