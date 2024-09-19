@@ -1,15 +1,6 @@
 ![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/github_banner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-
- <p align="left">
-     <a href="https://github.com/shahdinsalman23?tab=followers">
-         <img alt="github views" title="Profile views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/shahdinsalman23?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/shahdinsalman23?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<h3 align="center">A dedicated Fullstack Developer from Pakistan, passionate about building scalable and efficient web solutions with a focus on seamless user experiences.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
