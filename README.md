@@ -1,6 +1,6 @@
 ![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/github_banner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
-<h3 align="center">A dedicated Fullstack Developer from Pakistan, passionate about building scalable and efficient web solutions with a focus on seamless user experiences.</h3>
+<h3 align="center" style="margin: 20px 0px 30px 0px;">A dedicated Fullstack Developer from Pakistan, passionate about building scalable and efficient web solutions with a focus on seamless user experiences.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -16,7 +16,7 @@
 
 - 📧 How to reach me **shahdinsalman@gmail.com**
 
-<h3 align="center" style="margin: 80px 0px 0px 0px;"> 
+<h3 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
   Connect with me on 🤝: 
 </h3>
