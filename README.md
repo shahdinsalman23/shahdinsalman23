@@ -47,6 +47,7 @@
     </div>
 </p>
 
+### 
 
 <h3 align="left" style="padding: 0px 0px 30px 0px;"> 
     Languages and Tools:
@@ -65,7 +66,9 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<br/>
+<br />
+
+#
 
 
 
