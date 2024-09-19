@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-<h3 align="center" style="margin: 30px 0px 0px 0px;"> 
+<h3 align="center" style="margin: 80px 0px 0px 0px;"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">
   Connect with me on 🤝: 
 </h3>
