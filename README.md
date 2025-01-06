@@ -1,4 +1,4 @@
-![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/github_banner.png)
+![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/linkedinbanner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
 <h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Fullstack Developer from Pakistan</h3>
 
