@@ -77,9 +77,8 @@
 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdinsalman23&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=shahdinsalman23&theme=monokai)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shahdinsalman23&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=shahdinsalman23&theme=monokai)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdinsalman23&layout=compact&theme=radical)
 ![Shahdin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdinsalman23&show_icons=true&theme=radical)
 ![Shahdin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahdinsalman23&theme=dracula)
