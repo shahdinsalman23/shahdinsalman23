@@ -1,6 +1,13 @@
 ![logo](https://github.com/shahdinsalman23/shahdinsalman23/blob/main/linkedinbanner.png)
 <h1 align="center">Hi 🤝, I'm Shahdin Salman</h1>
-<h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Fullstack Developer from Pakistan</h3>
+<h3 align="center" style="margin: 20px 0px 30px 0px;">Experienced Frontend Developer from Pakistan</h3>
+
+![React](https://img.shields.io/badge/React-18-blue)
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black)
+![Vite](https://img.shields.io/badge/Vite-Build-brightgreen)
+![Firebase](https://img.shields.io/badge/Firebase-Auth-orange)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -71,8 +78,8 @@
 
 
 
-<p><img align="left" style="padding-top:10px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahdinsalman23&show_icons=true&locale=en&layout=compact" alt="shahdinsalman23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahdinsalman23&show_icons=true&locale=en" alt="shahdinsalman23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahdinsalman23&" alt="shahdinsalman23" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdinsalman23&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=shahdinsalman23&theme=monokai)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shahdinsalman23&theme=radical)
+![Shahdin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahdinsalman23&show_icons=true&theme=radical)
+![Shahdin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shahdinsalman23&theme=dracula)
